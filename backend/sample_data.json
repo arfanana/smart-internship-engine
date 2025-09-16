@@ -1,0 +1,83 @@
+{
+  "employers": [
+    {
+      "email": "hr@techgiants.com",
+      "company_name": "TechGiants Inc",
+      "industry": "Technology",
+      "description": "Leading technology company specializing in AI and cloud solutions"
+    },
+    {
+      "email": "careers@datacorp.com",
+      "company_name": "DataCorp Analytics",
+      "industry": "Data Science",
+      "description": "Data analytics and business intelligence solutions"
+    },
+    {
+      "email": "jobs@innovatetech.com",
+      "company_name": "InnovateTech Solutions",
+      "industry": "Software Development",
+      "description": "Innovative software development and digital transformation"
+    }
+  ],
+  "students": [
+    {
+      "email": "alice.johnson@university.edu",
+      "full_name": "Alice Johnson",
+      "degree": "Computer Science",
+      "year_of_study": 4,
+      "cgpa": 9.1,
+      "skills": ["Python", "Machine Learning", "TensorFlow", "SQL", "AWS"],
+      "preferences": ["AI/ML", "Data Science", "Cloud Computing"]
+    },
+    {
+      "email": "bob.smith@university.edu",
+      "full_name": "Bob Smith",
+      "degree": "Information Technology",
+      "year_of_study": 3,
+      "cgpa": 8.7,
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Docker"],
+      "preferences": ["Web Development", "DevOps", "Full Stack"]
+    },
+    {
+      "email": "carol.davis@university.edu",
+      "full_name": "Carol Davis",
+      "degree": "Data Science",
+      "year_of_study": 3,
+      "cgpa": 8.9,
+      "skills": ["Python", "R", "SQL", "Tableau", "Statistics"],
+      "preferences": ["Data Science", "Analytics", "Business Intelligence"]
+    }
+  ],
+  "internships": [
+    {
+      "employer_id": 1,
+      "title": "AI/ML Research Intern",
+      "description": "Work on cutting-edge AI research projects and machine learning models",
+      "required_skills": ["Python", "Machine Learning", "TensorFlow", "Mathematics"],
+      "min_cgpa": 8.5,
+      "min_year": 3,
+      "positions_available": 2,
+      "domain": "AI/ML"
+    },
+    {
+      "employer_id": 2,
+      "title": "Data Analyst Intern",
+      "description": "Analyze large datasets and create insightful visualizations and reports",
+      "required_skills": ["SQL", "Python", "Tableau", "Excel", "Statistics"],
+      "min_cgpa": 7.5,
+      "min_year": 2,
+      "positions_available": 3,
+      "domain": "Data Analytics"
+    },
+    {
+      "employer_id": 3,
+      "title": "Full Stack Developer Intern",
+      "description": "Develop modern web applications using latest technologies",
+      "required_skills": ["JavaScript", "React", "Node.js", "MongoDB", "Git"],
+      "min_cgpa": 8.0,
+      "min_year": 3,
+      "positions_available": 4,
+      "domain": "Web Development"
+    }
+  ]
+}
